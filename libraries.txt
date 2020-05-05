@@ -1,0 +1,5 @@
+Name: 	
+Father Name: 	
+CNIC:	
+Address:
+Phone no:
