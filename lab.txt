@@ -1,5 +1,3 @@
-Name: 	
-Father Name: 	
-CNIC:	
-Address:
-Phone no:
+Lab No:
+Lab Attendent:
+Lab timing:

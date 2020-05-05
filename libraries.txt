@@ -1,5 +1,6 @@
-Name: 	
-Father Name: 	
-CNIC:	
-Address:
-Phone no:
+Book ID:
+Book Name:
+Book Description:
+Student RollNo:
+Student Name:
+Student Class:
